@@ -29,7 +29,7 @@
   <version>2.21</version>
   <packaging>pom</packaging>
 
-  <name>Jenkins Plugin Parent POM</name>
+  <name>Jenkins Plugin Parent POM POM POM</name>
   <description>The Jenkins Plugins Parent POM Project</description>
   <inceptionYear>2016</inceptionYear>
 
